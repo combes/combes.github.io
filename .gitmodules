@@ -1,0 +1,3 @@
+[submodule "scroll-curtains"]
+	path = scroll-curtains
+	url = https://github.com/combes/scroll-curtains.git
